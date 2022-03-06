@@ -3,7 +3,7 @@ package javaapplication15;
 /**
  * This class +++ Insert class description here +++
  *
- * @author Roopamjit Walia    
+ * @author Roopamjit Walia         
  */
 public class JavaApplication15 {
 
